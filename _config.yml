@@ -2,5 +2,6 @@ title: Another Redis Desktop Manager
 description: A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
 show_downloads: false
 theme: jekyll-theme-cayman
+markdown: kramdown
 plugins:
   - jekyll-sitemap
