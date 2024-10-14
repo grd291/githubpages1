@@ -1,7 +1,9 @@
-title: Another Redis Desktop Manager
-description: A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
+title: 一个免费简历平台
+description: 云上简历（Cloud Resume） 是一款为求职者量身打造的在线简历制作与分享平台。我们提供丰富多样的现代化简历模板，让您轻松制作出专业、美观的个人简历。平台支持自定义模板、加密访问、便捷分享等功能，并鼓励用户参与模板创作，共同打造一个开放、共享的简历社区。
 show_downloads: false
 theme: jekyll-theme-cayman
 markdown: kramdown
 plugins:
   - jekyll-sitemap
+head:
+  - <link rel="stylesheet" href="/assets/custom.css">
