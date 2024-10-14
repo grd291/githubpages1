@@ -3,6 +3,9 @@ description: 云上简历（Cloud Resume） 是一款为求职者量身打造的
 show_downloads: false
 theme: jekyll-theme-cayman
 markdown: kramdown
+github:
+  gp_repository_url: https://baidu.com
+  repository_url: https://bing.com
 plugins:
   - jekyll-sitemap
 head:
