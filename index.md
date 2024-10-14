@@ -1,10 +1,10 @@
----
-layout: default
-title: Home
----
-
 # Welcome to Another Redis Desktop Manager
 
-A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. 
+This is a faster, better, and more stable Redis desktop manager for Linux, Windows, and Mac. What's more, it won't crash when loading massive keys.
 
-[View on GitHub](https://github.com/qishibo/AnotherRedisDesktopManager)
+## Features
+- Faster response time
+- Stable and reliable
+- Cross-platform support
+
+Download it today and experience the difference!
